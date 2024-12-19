@@ -1,0 +1,17 @@
+Create a concise, engaging weekly newsletter on AI and tech partnerships announced that were only announced from December 12 to December 19 2024. Include:
+
+Opening Overview: Start with a captivating summary of the week’s global or tech highlights (e.g., mergers, breakthroughs, market trends). Hook readers with relevance and excitement.
+
+Partnership Highlights: Organize into themes (e.g., "Startup Collaborations," "Enterprise Breakthroughs"). For each:
+Include the Published Date of the Partnership
+Summarize individually in a maximum of 10000 words each.
+Highlight its importance: the problem solved, innovations used, and key success factors (e.g., shared goals, synergies).
+Note specific industries or verticals.
+Balance high-profile collaborations and smaller, intriguing partnerships.
+Closing Thoughts: Reflect on trends or opportunities these partnerships represent. Encourage reader engagement with a call to action.
+
+Guidelines:
+Include only partnerships/events from the specified dates.
+Include valid website url links to each partnerships that was done by the Partnership Researcher.
+Use an engaging, professional tone.
+Prioritize concise, impactful storytelling.
